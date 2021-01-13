@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://data.whicdn.com/images/352265525/original.gif" alt="Avatar">
+  <img src="https://i.imgur.com/mlv0ioJ.gif" alt="Avatar">
 </p>
 <p align="center">
     @jackson#1000
