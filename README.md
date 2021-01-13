@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://data.whicdn.com/images/352265525/original.gif" alt="Avatar">
+  <img src="https://media.discordapp.net/attachments/767795632790175757/775753083522252840/image0.gif" alt="Avatar">
 </p>
 <p align="center">
     @jackson#1000
