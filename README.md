@@ -9,7 +9,7 @@ i code a lil
 </p>
 <p align="center">
 <a href="http://discord.gg/esex">discord</a>
-    ・
+   |
     <a href="https://github.com/jpasjax">github</a>
 </p>
 
