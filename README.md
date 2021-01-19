@@ -15,4 +15,4 @@ i code a lil
 
 <p align="center">  
 
-![jackson's github stats](https://github-readme-stats.vercel.app/api?username=jpasjax&show_icons=true&theme=radical)
+![jackson's github stats](https://github-readme-stats.vercel.app/api?username=jpasjax&show_icons=true&theme=radical) [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpasjax)](https://github.com/anuraghazra/github-readme-stats)
