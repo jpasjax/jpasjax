@@ -14,3 +14,5 @@ i code a lil
 </p>
 
 <p align="center">  
+
+![jackson's github stats](https://github-readme-stats.vercel.app/api?username=jpasjax&show_icons=true&theme=radical)
