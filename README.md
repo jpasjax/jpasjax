@@ -8,7 +8,7 @@ i code a lil
 <p align="center">
 </p>
 <p align="center">
-<a href="http://discord.gg/esex">discord</a>
+<a href="http://discord.gg/cash">discord</a>
    |
     <a href="https://github.com/jpasjax">github</a>
 </p>
