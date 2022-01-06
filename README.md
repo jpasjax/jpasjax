@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://media3.giphy.com/media/hpF18lS5h2Ox926VjM/giphy.gif" alt="Avatar">
+  <img src=alt="Avatar">
 </p>
 <p align="center">
     jackson#1000
